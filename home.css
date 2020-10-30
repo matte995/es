@@ -1,0 +1,53 @@
+h1{
+	text-align: center;
+}
+
+nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 15px;
+	overflow: hidden;
+	background-color: rgb(19, 16, 232);
+
+}
+
+nav li {
+	display: inline;
+	padding:15px 15px;	
+	float: right;
+	
+}
+
+nav li a {
+	text-decoration: none;
+	color: white;
+}
+
+nav li a:link{
+	color: white;
+	
+}
+
+nav li a:hover{
+	background-color: rgb(128, 198, 252);
+	padding: 30px 0px;
+
+}
+
+section{
+	background-image: url('maghetto-dx.png');
+	background-repeat: no-repeat;
+  	background-attachment: scroll;
+  	background-color: lightblue;  
+  	height: 800px;
+  	background-size: contain;
+  	
+}
+
+h1{
+
+}
+
+p {
+	text-align: right;
+}
